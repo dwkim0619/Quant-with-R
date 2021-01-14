@@ -44,3 +44,4 @@ Sys.setlocale("LC_ALL", "Korean")
 data
 
 # 네이버 금융 주식티커 ----
+
